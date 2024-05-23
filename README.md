@@ -6,8 +6,6 @@ The program is meant as a packet sniffer tool.
 USE AT YOUR OWN RISK !!!!
 
 To use:
-
-To use:
 Out of program:
 1. Open CMD
 2. Input "pip install scapy"
