@@ -1,7 +1,7 @@
 # PRODIGY_CS_05
 A task inline with Prodigy Infotech's Cybersecurity Internship Program
 
-The program is meant as a packet sniffer tool.
+The program is meant as a packet sniffer tool. It only outputs UDP based packets.
 
 USE AT YOUR OWN RISK !!!!
 
